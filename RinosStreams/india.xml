@@ -192,7 +192,7 @@
 
 <item>
 <title>Sony Sab TV</title>
-<link>rtmp://141.8.244.56/base playpath=sab.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=sab&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
+<link>rtmpe://68.235.32.30/web/sab token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf live=1 pageUrl=http://www.watchsuntv.com/play/</link>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
 </item>
 
