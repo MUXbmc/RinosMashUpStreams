@@ -164,13 +164,7 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>Play TV</title>
-<link>$doregex[rtmp] playpath=playtv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=playtv&amp;width=723&amp;height=405</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=playtv&amp;width=723&amp;height=405</page>
-<referer>http://www.eboundservices.com:8888/users/playtv</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/playtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://emax.tv/images/EmaxLogo.fw.png</thumbnail>
 </item>
 
