@@ -91,13 +91,7 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>Hum TV</title>
-<link>$doregex[rtmp] playpath=humtv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com:8888/iframe/humtv/iframe.php?streamer=streamer35&amp;app=humtv&amp;stream=humtv&amp;screen=true</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^']+)',</expres>
-<page>http://www.eboundservices.com:8888/iframe/humtv/iframe.php?streamer=streamer35&amp;app=humtv&amp;stream=humtv&amp;screen=true</page>
-<referer>http://www.eboundservices.com:8888/users/humtv/humtv_iframe.html</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/humtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
 </item>
 
@@ -115,13 +109,7 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>Hum Masala</title>
-<link>$doregex[rtmp] playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=masalatv&amp;stream=masalatv&amp;width=640&amp;height=360</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=masalatv&amp;stream=masalatv&amp;width=640&amp;height=360</page>
-<referer>http://www.eboundservices.com:8888/users/masalatv/masalatv_iframe.html</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/masalatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://www.masala.tv/wp-content/themes/masalatv/images/logo.jpg</thumbnail>
 </item>
 
@@ -133,20 +121,13 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>KAY2</title>
-<link>$doregex[rtmp] playpath=k2tv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=k2tv&amp;width=480&amp;height=270</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=k2tv&amp;width=480&amp;height=270</page>
-<referer>http://www.eboundservices.com:8888/users/k2tv/</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/k2tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://kay2.tv/images/logo.png</thumbnail>
 </item>
 
 <item>
 <title>MASALA TV</title>
-<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTMgNDo0MTozNSBBTSZoYXNoX3ZhbHVlPTRiWXB4Ni9lb1pqOWlpQjgybVFib0E9PSZ2YWxpZG1pbnV0ZXM9Mg== playpath=hamariweb-masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/masalatv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-masalatv&screen=true
-</link>
+<link>rtmp://streamer38.eboundservices.com/hamariweb?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMTMgNDo0MTozNSBBTSZoYXNoX3ZhbHVlPTRiWXB4Ni9lb1pqOWlpQjgybVFib0E9PSZ2YWxpZG1pbnV0ZXM9Mg== playpath=hamariweb-masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/hamariweb/masalatv_iframe.html live=true timeout=15 pageUrl=http://www.eboundservices.com:8888/users/hamariweb/iframe.php?app=hamariweb&stream=hamariweb-masalatv&screen=true</link>
 <thumbnail>http://images4.wikia.nocookie.net/__cb20111001233247/logopedia/images/e/e8/Masala_TV.png</thumbnail>
 </item>
 
@@ -188,24 +169,12 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>Style 360</title>
-<link>$doregex[rtmp] playpath=style360 swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=style360&amp;width=640&amp;height=360</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=style360&amp;width=640&amp;height=360</page>
-<referer>http://www.eboundservices.com:8888/users/style360/style360_iframe.html</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/style360/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://style360.tv/images/logo.png</thumbnail>
 </item>
 
 <item>
 <title>Vibe TV</title>
-<link>$doregex[rtmp] playpath=nvibe swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=nvibe&amp;width=723&amp;height=405</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=nvibe&amp;width=723&amp;height=405</page>
-<referer>http://www.eboundservices.com:8888/users/nvibe/nvibe_iframe.html</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/nvibe/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://www.nvibe.tv/images/nvibe-logo.png</thumbnail>
 </item>
