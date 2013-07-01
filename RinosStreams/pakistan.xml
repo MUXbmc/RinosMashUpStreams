@@ -1,12 +1,6 @@
 <item>
 <title>A Plus</title>
-<link>$doregex[rtmp] playpath=aplus swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=aplus&amp;width=480&amp;height=270</link>
-<regex>
-<name>rtmp</name>
-<expres>(rtmp://[^'"]+)'</expres>
-<page>http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&amp;app=tv&amp;stream=aplus&amp;width=480&amp;height=270</page>
-<referer>http://www.eboundservices.com:8888/users/aplus/aplus_iframe.html</referer>
-</regex>
+<link>http://streamer35.eboundservices.com:1935/tv/aplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTMgODo0MDozMSBQTSZoYXNoX3ZhbHVlPVI2ZEdqZ1RLSmRzRXUvaTd5VzFqWXc9PSZ2YWxpZG1pbnV0ZXM9MjA=</link>
 <thumbnail>http://www.a-plus.tv/images/apluslogo.png</thumbnail>
 </item>
 
