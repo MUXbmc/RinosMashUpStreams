@@ -25,7 +25,7 @@
 <item>
 <title>B4U Movies</title>
 <link>rtmp://178.18.23.129/live/ playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430 live=true timeout=15</link>
-<thumbnail </thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
