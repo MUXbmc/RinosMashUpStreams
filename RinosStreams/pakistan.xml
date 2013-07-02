@@ -1,10 +1,4 @@
 <item>
-<title>Aaj News</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzozMzozOSBBTSZoYXNoX3ZhbHVlPWZsa2hwSlBnRmxySXJBeE9xU2lNR2c9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=aajnews swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=aajnews pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=aajnews&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
 <title>Abbtak TV</title>
 <link>rtmp://77.92.87.245:1935/live/ playpath=abbtakkLive.stream swfUrl=http://www.abbtakk.tv/wp-content/plugins/ultimate-coming-soon-page/inc/template/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.abbtakk.tv/</link>
 <thumbnail>http://www.pakistanmediaupdates.com/wp-content/uploads/2013/04/abb-takk.jpg</thumbnail>
@@ -30,15 +24,8 @@
 
 <item>
 <title>Capital TV Live</title>
-<link>rtmp://184.107.236.10:1935/live/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf live=true timeout=15
-pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link>
+<link>rtmp://184.107.236.10:1935/live/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link>
 <thumbnail>http://www.saach.tv/wp-content/uploads/2013/04/Capital-TV-Pakistan.png</thumbnail>
-</item>
-
-<item>
-<title>Dhoom NEWS</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzozNjo0NyBBTSZoYXNoX3ZhbHVlPVMrQlBTSGdnRmMrWHNIc3pSRGpRaEE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=dhoomtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=dhoomtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=dhoomtv&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -48,8 +35,8 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 </item>
 
 <item>
-<title>E-MAX TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzozOTo0MCBBTSZoYXNoX3ZhbHVlPVpmai96TWJuZkttSkQrTFNWS0lCUFE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=emax swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=emax pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=emax&screen=true live=true timeout=15</link>
+<title>Express News</title>
+<link>rtmp://94.102.51.78/live33 playpath=w_enews swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_enews&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -79,32 +66,26 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 
 <item>
 <title>GEO News</title>
+<link>rtmp://94.102.56.186/zecastEd playpath=newsgeo8 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=newsgeo8&width=600&height=470 live=true timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>GEO News (2)</title>
 <link>rtmp://streamer34.eboundservices.com/geonews?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzo0NDoyNiBBTSZoYXNoX3ZhbHVlPXBERDRRbVF6L2xPLzlrcTVnS1owTEE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=geonews swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/geo/iframe.php?streamer=streamer34&app=geonews&stream=geonews&width=500&height=282 live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
 <title>Hum TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzoyNDo0MiBBTSZoYXNoX3ZhbHVlPVFaQ0hTdXgwL29uajdMSTVJcU1YWUE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=humtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=humtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=humtv&screen=true live=true timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
-</item>
-
-<item>
-<title>Hum TV (2)</title>
 <link>rtmp://93.174.93.58/zecastEd/ playpath=tvhum3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=tvhum3&width=600&height=470 swfVfy=true live=true timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
 </item>
 
 <item>
-<title>Hum TWO TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzoyMzoxNiBBTSZoYXNoX3ZhbHVlPWtiU1NMUUVSdnhsT0RvS3VOWDhMa3c9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=hum2 swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=hum2 pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=hum2&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Hum Masala</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzoyNzoxMSBBTSZoYXNoX3ZhbHVlPXlpM1NCazNoaVdRZXlWQnBLYlFMT0E9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=masalatv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=masalatv&screen=true live=true timeout=15</link>
-<thumbnail>http://www.masala.tv/wp-content/themes/masalatv/images/logo.jpg</thumbnail>
+<title>Hum TV (2)</title>
+<link>rtmp://f.acaster.tv/live playpath=tvhum5 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvhum5&vw=600&vh=470&domain=http://desistreams.tv/embed/hum_tv.ph live=true timeout=15</link>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
 </item>
 
 <item>
@@ -114,21 +95,9 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 </item>
 
 <item>
-<title>KAY-2 TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzoyODowNSBBTSZoYXNoX3ZhbHVlPVdiWXFDejBUWUh0UmJOQXpxZko1dVE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=k2tv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=k2tv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=k2tv&screen=true live=true timeout=15</link>
-<thumbnail>http://kay2.tv/images/logo.png</thumbnail>
-</item>
-
-<item>
 <title>NICK</title>
 <link>rtmp://94.242.228.40:1930/live2 playpath=nicks.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=nicks.stream</link>
 <thumbnail>http://i1.cdnds.net/10/15/M/tv_nick_logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>Play TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzozMDo1MiBBTSZoYXNoX3ZhbHVlPUw3aFJFeWxaalowQ0pFNFkwVm9ZTUE9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=playtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=playtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=playtv&screen=true live=true timeout=15</link>
-<thumbnail>http://emax.tv/images/EmaxLogo.fw.png</thumbnail>
 </item>
 
 <item>
@@ -153,10 +122,4 @@ pageUrl=http://www.hamariweb.com/pakistan-tv-channels/capital_tv_live.aspx</link
 <title>PTV News</title>
 <link>rtmp://s4s1.pakistanvision.tv/live playpath=PTVnews swfUrl=http://www.pakistanvision.com/swfs/videoPlayer.swf pageUrl=http://ptv.com.pk/livetvnews.asp swfVfy=true live=true timeout=15</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/ptv_news.jpg</thumbnail>
-</item>
-
-<item>
-<title>Vibe TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTMgMzoxODowMCBBTSZoYXNoX3ZhbHVlPUVYSVkvcjZVT3N5Q3R5QmNLOUhOV2c9PSZ2YWxpZG1pbnV0ZXM9MjA= playpath=nvibe swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=nvibe pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=nvibe&screen=true</link>
-<thumbnail>http://www.nvibe.tv/images/nvibe-logo.png</thumbnail>
 </item>
