@@ -41,6 +41,12 @@
 </item>
 
 <item>
+<title>Express Entertainment</title>
+<link>rtmp://94.242.228.22:1935/cdn2 playpath=express56 swfUrl=http://liveview365.tv/jwplayer/player.swf pageUrl=http://liveview365.tv/embedded?id=express56&width=600&height=470&domain=desistreams.tv live=true timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>Geo Entertainment</title>
 <link>rtmp://188.122.91.6/app playpath=entgeo6 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=entgeo6 live=true timeout=15</link>
 <thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/08/Geo-TV-live-streaming.jpg</thumbnail>
