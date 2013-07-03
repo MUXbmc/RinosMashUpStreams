@@ -181,6 +181,7 @@
 <item>
 <title>SONY Tv HQ</title>
 <link>rtmpe://68.235.32.30/web/sonytv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=15</link>
+<thumbnail>http://www.bestmediainfo.com/wp-content/uploads/2012/05/sony-logo-new.jpg</thumbnail>
 </item>
 
 <item>
@@ -227,7 +228,7 @@
 <item>
 <title>Star Vijay</title>
 <link>rtmpe://46.19.141.70:443/liveedge2/vjjjstar-JeMQTXT swfUrl=http://putlive.in/player/player.swf live=true timeout=15 swfVfy=1 pageUrl=http://putlive.in/</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d9/STAR_Vijay.jpg</thumbnail>
 </item>
 
 <item>
