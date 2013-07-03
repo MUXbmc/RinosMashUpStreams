@@ -37,13 +37,13 @@
 <item>
 <title>Express News</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_enews swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_enews&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.thedesidesign.com/wp-content/uploads/2011/11/express_news.png</thumbnail>
 </item>
 
 <item>
 <title>Express Entertainment</title>
 <link>rtmp://94.242.228.22:1935/cdn2 playpath=express56 swfUrl=http://liveview365.tv/jwplayer/player.swf pageUrl=http://liveview365.tv/embedded?id=express56&width=600&height=470&domain=desistreams.tv live=true timeout=15</link>
-<thumbnail> </thumbnail>
+<thumbnail>http://www.saintclassified.pk/player/tv_logos/express-entertainment.jpg</thumbnail>
 </item>
 
 <item>
