@@ -72,7 +72,7 @@
 
 <item>
 <title>GEO News</title>
-<link>rtmp://streamer36.eboundservices.com/geonews?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTMgMTI6MjQ6NDggQU0maGFzaF92YWx1ZT1mejFDenkrWXEwWlh1OE1SZ2wzbER3PT0mdmFsaWRtaW51dGVzPTIw playpath=geonews swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/geo/iframe.php?streamer=streamer36&app=geonews&stream=geonews&width=640&height=360 live=true timeout=15</link>
+<link>rtmp://93.174.93.58/zecastEd playpath=newsgeo8 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=newsgeo8&width=600&height=470 live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
