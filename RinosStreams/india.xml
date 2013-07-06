@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>B4U Music</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/81ff107849124ff389814b0b8816b1ba.m3u8?bitrate=800</link>
+<thumbnail>http://www.prlog.org/10183277-b4u-music-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Colors TV</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_colors swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_colors&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
@@ -185,13 +191,13 @@
 <item>
 <title>Zee TV</title>
 <link>rtmp://46.246.124.25/live/ playpath=tvzee5 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvzee5&vw=600&vh=470&domain=http://desistreams.tv/embed/zee_tv.php live=true timeout=15</link>
-<thumbnail>http://fancystreems.com/channelthumb/zeetv.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
 <item>
 <title>Zee Tv (2)</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live/8be5e8787848472089925a7bb7f43ef1.m3u8?bitrate=800 </link>
-<thumbnail>http://fancystreems.com/channelthumb/zeetv.jpg</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_tv.jpg</thumbnail>
 </item>
 
 <item>
