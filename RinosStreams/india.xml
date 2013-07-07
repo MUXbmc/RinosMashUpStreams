@@ -17,6 +17,12 @@
 </item>
 
 <item>
+<title>B4u Music</title>
+<link>rtmp://50.7.130.43:1939/base2/dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-music/ timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/B4u.jpg.png</thumbnail>
+</item>
+
+<item>
 <title>Colors TV</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_colors swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_colors&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
@@ -35,22 +41,46 @@
 </item>
 
 <item>
+<title>India News</title>
+<link>http://infotv.live.cdn.bitgravity.com/infotv/live/feed01</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/indianews.png</thumbnail>
+</item>
+
+<item>
+<title>IndiaNews </title>
+<link>http://infotv.live.cdn.bitgravity.com/infotv/live/feed02</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/indianewsharyana.png</thumbnail>
+</item>
+
+<item>
 <title>Life OK</title>
-<link>rtmp://178.18.23.129/live playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 live=true timeout=15</link>
+<link>rtmp://141.8.244.56/base playpath=life_ok.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=life_ok&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
 <thumbnail>http://i50.tinypic.com/2ztg7j9.jpg</thumbnail>
 </item>
 
 <item>
 <title>Life OK (2)</title>
-<link>rtmp://141.8.244.56/base playpath=life_ok.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=life_ok&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
+<link>rtmp://178.18.23.129/live playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail>http://i50.tinypic.com/2ztg7j9.jpg</thumbnail>
 </item>
 
-<!--<item>
-<title>MTunes HD</title>
-<link>rtmp://141.8.244.56/base/ playpath=mtunes_hd.stream swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
-<thumbnail>http://b.vimeocdn.com/ts/282/282/282282149_640.jpg</thumbnail>
-</item>-->
+<item>
+<title>Music India</title>
+<link>rtmp://50.7.130.43:1939/base2/maha11.stream live=1 swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/music-india/ timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/MusicIndiaLive.jpg.png</thumbnail>
+</item>
+
+<item>
+<title>NEO CRICKET</title>
+<link>rtmp://178.18.23.128/live/star_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php live=1 timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>News Express TV Live</title>
+<link>rtmp://live.itv.net.in/jhatpat99poo/myStream.sdp live=1 timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/news-express.png</thumbnail>
+</item>
 
 <item>
 <title>NDTV 24*7</title>
@@ -68,12 +98,6 @@
 <title>NEWS X</title>
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=newsx1 live=true timeout=15</link>
 <thumbnail>http://www.thehindu.com/multimedia/dynamic/00068/IN18_THREE_CHANNELS__68977f.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sada</title>
-<link>rtmp://119.82.77.212/live playpath=sada swfUrl=http://www.xuuby.com/player/player4.swf live=true timeout=15 pageUrl=http://www.xuuby.com/show.php?chname=axn&width=520&height=370&a=1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sada_channel.jpg</thumbnail>
 </item>
 
 <item>
@@ -130,6 +154,12 @@
 </item>
 
 <item>
+<title>STAR CRICKET</title>
+<link>rtmp://159.253.131.103/live/a124441aa live=1 swfUrl=http://www.janjua.tv/player/player-licensed55.swf pageUrl=http://www.janjua.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/STAR CRICKET.jpg.png</thumbnail>
+</item>
+
+<item>
 <title>Star Gold</title>
 <link>rtmp://94.102.56.186/zecastEd playpath=goldstar3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=goldstar3&width=600&height=470 live=true timeout=15</link>
 <thumbnail>http://www.indiantvinfo.com/wp-content/uploads/2011/09/Star-Gold-New-Logo.jpg</thumbnail>
@@ -139,6 +169,12 @@
 <title>Star Gold (2)</title>
 <link>http://fw01.livem3u8.me.totiptv.com/live//53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?bitrate=800</link>
 <thumbnail>http://www.indiantvinfo.com/wp-content/uploads/2011/09/Star-Gold-New-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Gold (3)</title>
+<link>rtmp://93.174.93.58/zecastEd/goldstar3 live=1 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/StarGold.jpg.png</thumbnail>
 </item>
 
 <item>
@@ -159,9 +195,21 @@
 </item>
 
 <item>
+<title>Star Plus (3)</title>
+<link>rtmp://46.246.124.25/live/plusstar67 live=1 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/star-plus.png</thumbnail>
+</item>
+
+<item>
 <title>Star Vijay</title>
 <link>rtmpe://46.19.141.70:443/liveedge2/vjjjstar-JeMQTXT swfUrl=http://putlive.in/player/player.swf live=true timeout=15 swfVfy=1 pageUrl=http://putlive.in/</link>
 <thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Studio N News</title>
+<link>rtmp://cdn.m.yupptv.tv/liveorigin/studion1 live=1 timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/Studio N News.jpg.png</thumbnail>
 </item>
 
 <item>
@@ -174,6 +222,12 @@
 <title>Times Now</title>
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=timesnow1</link>
 <thumbnail>http://www.dishtracking.com/blog/wp-content/uploads/2012/03/Times-Now.jpg</thumbnail>
+</item>
+
+<item>
+<title>[V] Channel </title>
+<link>rtmp://cp133304.live.edgefcs.net/live/channelv2@62057 live=1 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://tv.hindientertainment.net/2012/07/channel-v-india-live.html timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/vchannel.png</thumbnail>
 </item>
 
 <item>
