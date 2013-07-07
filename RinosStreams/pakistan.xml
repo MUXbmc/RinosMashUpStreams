@@ -11,6 +11,12 @@
 </item>
 
 <item>
+<title>Ary Digital (2)</title>
+<link>rtmp://93.174.93.58/zecastEd/digitalary3 live=1 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/ary.jpg.png</thumbnail>
+</item>
+
+<item>
 <title>ARY News</title>
 <link>rtmp://server1.arylive.com:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://live.arylive.com/stream5.html live=true timeout=15</link>
 <thumbnail>http://www.agahiawards.com/2012/channels/ary_news.jpg</thumbnail>
@@ -143,7 +149,19 @@
 </item>
 
 <item>
+<title>PTV Sports</title>
+<link>rtmp://46.246.124.25/live/sportsptv live=1 swfUrl=http://www.acaster.tv/player/mplayer327.sw pageUrl=http://www.acaster.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/PTVsports.jpg.png</thumbnail>
+</item>
+
+<item>
 <title>SAMAA News</title>
 <link>rtmp://85.12.5.7/vl/_definst_ playpath=samanews867 swfUrl=http://www.veemi.com/player/player-licensed.swf pageUrl=http://www.veemi.com/embed.php?v=samanews867&vw=600&vh=470&domain=desistreams.tv live=true timeout=15</link>
 <thumbnail> </thumbnail>
+</item>
+<item>
+
+<title>SAMAA TV</title>
+<link>rtmp://38.96.148.99:1935/samaalive/samaalive live=1 swfUrl=http://live.samaa.tv/player.swf pageUrl=http://live.samaa.tv/ timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/samaatv_logo.png</thumbnail>
 </item>
