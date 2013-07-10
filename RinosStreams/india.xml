@@ -1,3 +1,27 @@
+<!--<item>
+<title>9X JALWA</title>
+<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=9xjalwa1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/num/9x_jalwa.png</thumbnail>
+</item>
+
+<item>
+<title>9X TASHAN</title>
+<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=etvpacific1</link>
+<thumbnail>http://www.dishtracking.com/blog/wp-content/uploads/2011/10/9x-Tashan.jpg</thumbnail>
+</item>
+
+<item>
+<title>B4U Movies</title>
+<link>rtmp://178.18.23.129/live/ playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430 live=true timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>B4U Plus</title>
+<link>rtmp://141.8.244.56/tv/ playpath=b4u_plus swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/06/B4U-PLUS-UAE-logo.jpg</thumbnail>
+</item>-->
+
 <item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=aajtak1 live=true timeout=15</link>
@@ -68,6 +92,12 @@
 <title>Music India</title>
 <link>rtmp://50.7.130.43:1939/base2/maha11.stream live=1 swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/music-india/ timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/MusicIndiaLive.jpg.png</thumbnail>
+</item>
+
+<item>
+<title>MTunes HD</title>
+<link>rtmp://141.8.244.56/base playpath=mtuneshd.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
