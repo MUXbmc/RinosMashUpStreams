@@ -35,7 +35,7 @@
 <item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=aajtak1 live=true timeout=15</link>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 </item>
 
 <item>
