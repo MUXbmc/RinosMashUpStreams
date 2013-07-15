@@ -57,6 +57,12 @@
 </item>
 
 <item>
+<title>Colors-HD</title>
+<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8</link>
+<thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
+</item>
+
+<item>
 <title>Colors TV</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_colors swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_colors&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
 <thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
@@ -224,13 +230,13 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://94.102.56.186/zecastEd playpath=plusstar3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=plusstar3&width=600&height=470 live=true timeout=15</link>
+<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130521/800_1369165735.tshttp://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 
 <item>
 <title>Star Plus (2)</title>
-<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130521/800_1369165735.tshttp://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
+<link>rtmp://94.102.56.186/zecastEd playpath=plusstar3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=plusstar3&width=600&height=470 live=true timeout=15</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 
