@@ -7,35 +7,16 @@
 </info>
 ##############################################################################################################################
 
-
-<!--<item>
-<title>9X JALWA</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=9xjalwa1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/num/9x_jalwa.png</thumbnail>
-</item>
-
 <item>
-<title>9X TASHAN</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=etvpacific1</link>
-<thumbnail>http://www.dishtracking.com/blog/wp-content/uploads/2011/10/9x-Tashan.jpg</thumbnail>
+<title>Aalami Sahara</title>
+<link>rtmp://cdn.m.yupptv.tv:80/liveorigin playpath=saharaaalami1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharaaalami.aspx</link>
+<thumbnail>http://www.dddirectplus.in/wp-content/uploads/2011/08/Aalami-Sahara.jpg</thumbnail>
 </item>
-
-<item>
-<title>B4U Movies</title>
-<link>rtmp://178.18.23.129/live/ playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430 live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>B4U Plus</title>
-<link>rtmp://141.8.244.56/tv/ playpath=b4u_plus swfUrl=http://www.sportsembed.com/player/player-licensed55.swf live=true timeout=15 pageUrl=http://sportsembed.com/embed.php?v=colors&vw=600&vh=450&typeplayer=0&domain=pogotv.eu</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2013/06/B4U-PLUS-UAE-logo.jpg</thumbnail>
-</item>-->
 
 <item>
 <title>Aaj Tak</title>
 <link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=aajtak1 live=true timeout=15</link>
-<thumbnail> </thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -46,20 +27,14 @@
 
 <item>
 <title>B4U Music</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live/81ff107849124ff389814b0b8816b1ba.m3u8?bitrate=800</link>
-<thumbnail>http://www.prlog.org/10183277-b4u-music-logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>B4u Music</title>
 <link>rtmp://50.7.130.43:1939/base2/dd17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-music/ timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/B4u.jpg.png</thumbnail>
 </item>
 
 <item>
-<title>Colors-HD</title>
-<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8</link>
-<thumbnail>http://www.ebuzzintown.com/wp-content/uploads/2012/11/colors-tv-logo.jpg</thumbnail>
+<title>B4U Music (2)</title>
+<link>http://fw01.livem3u8.me.totiptv.com/live/81ff107849124ff389814b0b8816b1ba.m3u8?bitrate=800 live=true timeout=15</link>
+<thumbnail>http://www.prlog.org/10183277-b4u-music-logo.jpg</thumbnail>
 </item>
 
 <item>
@@ -69,38 +44,32 @@
 </item>
 
 <item>
+<title>D Cinema</title>
+<link>http://68.235.37.141:1935/minnal/dcinema2/playlist.m3u8 live=true timeout=15</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>Doordarshan Sports</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_ddsports swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_ddsports&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>HEADLINES TODAY</title>
-<link>rtmp://cdn.m.yupptv.tv/liveorigin/ playpath=headlinetoday1</link>
+<title>Headlines Today</title>
+<link>rtmp://cdn.m.yupptv.tv/liveorigin/ playpath=headlinetoday1 live=true timeout=15</link>
 <thumbnail>http://www.yupptv.com/img/headlines_iphone.png</thumbnail>
 </item>
 
 <item>
 <title>India News</title>
-<link>http://infotv.live.cdn.bitgravity.com/infotv/live/feed01</link>
+<link>http://infotv.live.cdn.bitgravity.com/infotv/live/feed01 live=true timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/indianews.png</thumbnail>
 </item>
 
 <item>
-<title>IndiaNews </title>
-<link>http://infotv.live.cdn.bitgravity.com/infotv/live/feed02</link>
-<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/indianewsharyana.png</thumbnail>
-</item>
-
-<item>
 <title>Life OK</title>
-<link>rtmp://141.8.244.56/base playpath=life_ok.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=life_ok&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
-<thumbnail>http://i50.tinypic.com/2ztg7j9.jpg</thumbnail>
-</item>
-
-<item>
-<title>Life OK (2)</title>
-<link>rtmp://178.18.23.129/live playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 live=true timeout=15</link>
+<link>rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive42.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://livetvchannelsfree.com/lifeok1.html live=true timeout=15</link>
 <thumbnail>http://i50.tinypic.com/2ztg7j9.jpg</thumbnail>
 </item>
 
@@ -111,14 +80,8 @@
 </item>
 
 <item>
-<title>MTunes HD</title>
+<title>MTunes</title>
 <link>rtmp://141.8.244.56/base playpath=mtuneshd.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=mtunes_hd&vw=600&vh=450&typeplayer=0&domain=www.pogotv.eu live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>NEO CRICKET</title>
-<link>rtmp://178.18.23.128/live/star_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php live=1 timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -129,21 +92,27 @@
 </item>
 
 <item>
-<title>NDTV 24*7</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=ndtvenglish9001 live=true timeout=15</link>
-<thumbnail>http://www.yupptv.com/img/ndtv24x7.png</thumbnail>
+<title>NDTV India</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvhindi9002 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvhindi.aspx</link>
+<thumbnail>http://www.wirelessduniya.com/wp-content/uploads/2012/01/ndtv-logo.png</thumbnail>
 </item>
 
 <item>
-<title>NDTV INDIA</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=ndtvhindi9001 live=true timeout=15</link>
-<thumbnail>http://www.yupptv.com/img/ndtvindia.png</thumbnail>
+<title>NDTV 24x7</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvenglish9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvenglish.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/300px-NDTV_247.svg.png</thumbnail>
 </item>
 
 <item>
-<title>NEWS X</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=newsx1 live=true timeout=15</link>
-<thumbnail>http://www.thehindu.com/multimedia/dynamic/00068/IN18_THREE_CHANNELS__68977f.jpg</thumbnail>
+<title>NDTV Profit</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=ndtvprofit9001 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/ndtvprofit.aspx</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/a3/NDTV-Profit.pngthumbnail>
+</item>
+
+<item>
+<title>News X</title>
+<link>rtmp://cdn.m.yupptv.tv:80/liveorigin playpath=newsx1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/newsx.aspx</link>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/news-x-logo-1.jpg</thumbnail>
 </item>
 
 <item>
@@ -153,32 +122,51 @@
 </item>
 
 <item>
-<title>SAHARA BIHAR</title>
-<link>rtsp://cdn.m.yupptv.tv/liveorigin/saharabihar1</link>
-<thumbnail>http://www.yupptv.com/img/sahara_Bihar_iphone_N.png</thumbnail>
+<title>Sahara Samay Bihar</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharabihar1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharabihar.aspx</link>
+<thumbnail>http://www.newtvworld.com/Images/sahara_samay_bihar.jpg</thumbnail>
 </item>
 
 <item>
-<title>Sahara MUMBAI</title>
+<title>Sahara Haryana</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharah1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharah.aspx</link>
+<thumbnail>http://nritv.in/images/tv%20channel%20logos/sahara-haryana.png</thumbnail>
+</item>
+
+<item>
+<title>Sahara Mumbai</title>
 <link>rtsp://cdn.m.yupptv.tv/liveorigin/saharamum1</link>
 <thumbnail>http://www.yupptv.com/img/75x50_sahara_mumbai.png</thumbnail>
 </item>
 
 <item>
-<title>SAHARA ONE</title>
+<title>Sahara Samay MP</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharamadhyap1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharamadhyap.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_madhya_pradesh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sahara Uttar Pradesh</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sahara ONE</title>
 <link>rtmp://94.242.228.40:1930/live2/ playpath=son.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf pageUrl=http://zonytvcom.info/saki2/embed.php?live=son.stream&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail>http://www.yupptv.com/img/sahara_samay_iphone_N.png</thumbnail>
 </item>
 
 <item>
-<title>SAHARA SAMAY</title>
-<link>rtmp://cdn.m.yuppcdn.net/liveorigin/ playpath=saharasamaynew1</link>
-<thumbnail>http://www.yupptv.com/img/sahara_samay_iphone_N.png</thumbnail>
+<title>Sahara Samay Live</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharasamaynew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharasamaynew.aspx</link>
+<thumbnail>http://www.dramaonlinetv.com/wp-content/uploads/2013/01/Sahara-Samay-Hindi-News.jpg</thumbnail>
 </item>
 
 <item>
-<title>SONY Tv HQ</title>
-<link>rtmpe://68.235.32.30/web/sonytv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=15</link>
+<title>Sahara Samay News</title>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=saharancrnew1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/saharancrnew.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_uttar_pradesh.jpg</thumbnail>
 </item>
 
 <item>
@@ -191,18 +179,6 @@
 <title>Sony TV (2)</title>
 <link>rtmp://94.102.56.186/zecastEd playpath=tvsony3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=tvsony3&width=600&height=470 live=true timeout=15</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sony Sab TV</title>
-<link>rtmpe://68.235.32.30/web/sab token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf live=1 pageUrl=http://www.watchsuntv.com/play/</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2012/01/sony_sab_tv_asia.png</thumbnail>
-</item>
-
-<item>
-<title>STAR CRICKET</title>
-<link>rtmp://159.253.131.103/live/a124441aa live=1 swfUrl=http://www.janjua.tv/player/player-licensed55.swf pageUrl=http://www.janjua.tv/embed.php timeout=15</link>
-<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/STAR CRICKET.jpg.png</thumbnail>
 </item>
 
 <item>
@@ -230,19 +206,25 @@
 
 <item>
 <title>Star Plus</title>
-<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130521/800_1369165735.tshttp://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
+<link>rtmp://94.102.51.78/live33 playpath=u_starplus swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=u_starplus&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/star-plus.png</thumbnail>
 </item>
 
 <item>
 <title>Star Plus (2)</title>
-<link>rtmp://94.102.56.186/zecastEd playpath=plusstar3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=plusstar3&width=600&height=470 live=true timeout=15</link>
+<link>http://fw01.livefile.me.totiptv.com/s02/7c75ad89-c1cc-417a-a0f0-66133c0a2333/800/20130521/800_1369165735.tshttp://fw01.livem3u8.me.totiptv.com/live//7c75ad89c1cc417aa0f066133c0a2333.m3u8?bitrate=800</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</thumbnail>
 </item>
 
 <item>
 <title>Star Plus (3)</title>
 <link>rtmp://46.246.124.25/live/plusstar67 live=1 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php timeout=15</link>
+<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/star-plus.png</thumbnail>
+</item>
+
+<item>
+<title>Star Plus (4)</title>
+<link>rtmp://50.7.28.178/flash playpath=15644 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://sawlive.tv/embed/watch/ZmZiMGI2ZjdkZjMxOmE0NzQ2MTcyNzA2Yzc1NzM2ODY0OmYxMWY4MzhlNGQ5ZmE0Nz/dkZTQ4NmM0MTU0NGIxY2NjMzUzYjZkYzI6ZWY1NGJiNWFiY2RiZTEyNWYxZTQzOTNkYzJlNjFkNTY_ live=true timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/star-plus.png</thumbnail>
 </item>
 
@@ -254,14 +236,8 @@
 
 <item>
 <title>Studio N News</title>
-<link>rtmp://cdn.m.yupptv.tv/liveorigin/studion1 live=1 timeout=15</link>
-<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/Studio N News.jpg.png</thumbnail>
-</item>
-
-<item>
-<title>TEN Sports</title>
-<link>rtmp://141.8.244.56/base playpath=ten_sports.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=ten_sports&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
-<thumbnail> </thumbnail>
+<link>rtmp://cdn.m.yupptv.tv:1935/liveorigin playpath=studion1 swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF live=true timeout=15 pageUrl=http://www.yupptv.com/streams/studion.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/studio_n.png</thumbnail>
 </item>
 
 <item>
