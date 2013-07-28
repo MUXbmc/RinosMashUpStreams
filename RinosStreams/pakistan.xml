@@ -67,41 +67,11 @@
 <thumbnail> </thumbnail>
 </item>
 
-<!--<item>
-<title>Express News</title>
-<link>rtmp://94.102.51.78/live33 playpath=w_enews swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_enews&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Express Entertainment</title>
-<link>rtmp://94.242.228.22:1935/cdn2 playpath=express56 swfUrl=http://liveview365.tv/jwplayer/player.swf pageUrl=http://liveview365.tv/embedded?id=express56&width=600&height=470&domain=desistreams.tv live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>-->
-
 <item>
 <title>Express Entertainment</title>
 <link>rtmp://94.102.51.78/live33 playpath=w_express swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_express&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
-
-<!--<item>
-<title>Geo Entertainment</title>
-<link>rtmp://188.122.91.6/app playpath=entgeo6 swfUrl=http://www.yocast.tv/player/player-licensed.swf live=true timeout=15 pageUrl=http://www.yocast.tv/embed.php?live=entgeo6 live=true timeout=15</link>
-<thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/08/Geo-TV-live-streaming.jpg</thumbnail>
-</item>
-
-<item>
-<title>Geo Tez TV</title>
-<link>rtmp://zeenatlive.viddillions.com/zeenatlive/ playpath=51ztvlive70.stream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://nowwatchtvlive.com/2013/05/geo-tez-live-streaming-watch-geo-tez-pakistan-online-free/</link>
-<thumbnail>http://www.pmm.net.pk/wp-content/uploads/2013/04/geo_tez.jpg</thumbnail>
-</item>
-
-<item>
-<title>Geo Super</title>
-<link>rtmp://94.102.51.78/live33/ playpath=w_geosuper swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=w_geosuper&vw=600&vh=450&video=0&domain=pogotv.eu live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>-->
 
 <item>
 <title>GEO News</title>
@@ -147,27 +117,9 @@
 
 <item>
 <title>Hum Masaala</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MjI6NTQgUE0maGFzaF92YWx1ZT1BYU9ZY003UVc2VDNxUEZlUjhGN2tRPT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=masalatv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=masalatv&screen=true live=true timeout=15</link>
+<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6NDg6MDMgUE0maGFzaF92YWx1ZT1HSENSR2Uwa0NmSE5YaE1GeklEaVNnPT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=masalatv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=masalatv&screen=true live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
-
-<!--<item>
-<title>Hum Masaala</title>
-<link>rtmp://streamer35.eboundservices.com/masalatv?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMTMgMTE6NTc6MTQgUE0maGFzaF92YWx1ZT0rNGxaVEVkeXArakZaNm9oeTFQMnFRPT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com:8888/users/masalatv/masalatv_iframe.html pageUrl=http://www.eboundservices.com/iframe/new/iframe.php?streamer=streamer35&app=masalatv&stream=masalatv&width=640&height=360 live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>-->
-
-<!--<item>
-<title>Kashish TV</title>
-<link>rtmp://watch.dmasti.pk/kashish playpath=kashish swfUrl=http://ktntv.tv/ktnnews/player/player.swf pageUrl=http://ktntv.tv/kashish live=1</link>
-<thumbnail>http://ktntv.tv/kashish/wp-content/uploads/2012/08/kss-logo.png</thumbnail>
-</item>
-
-<item>
-<title>NICK</title>
-<link>rtmp://94.242.228.40:1930/live2 playpath=nicks.stream swfUrl=http://zonytvcom.info/saki2/player/player-licensed.swf live=true timeout=15 pageUrl=http://zonytvcom.info/saki/embed.php?live=nicks.stream</link>
-<thumbnail>http://i1.cdnds.net/10/15/M/tv_nick_logo.jpg</thumbnail>
-</item>-->
 
 <item>
 <title>Kay 2 TV</title>
@@ -225,6 +177,6 @@
 
 <item>
 <title>Vibe TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MTk6MjQgUE0maGFzaF92YWx1ZT0va1RLNlI4OUxqU2JZUEs3L1NLa1J3PT0mdmFsaWRtaW51dGVzPTIw playpath=nvibe swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=nvibe pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=nvibe&screen=true live=true timeout=15</link>
+<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6NDg6MDMgUE0maGFzaF92YWx1ZT1HSENSR2Uwa0NmSE5YaE1GeklEaVNnPT0mdmFsaWRtaW51dGVzPTIw playpath=nvibe swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=nvibe pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=nvibe&screen=true live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
