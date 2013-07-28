@@ -8,12 +8,6 @@
 ##############################################################################################################################
 
 <item>
-<title>APlus TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MzU6NDkgUE0maGFzaF92YWx1ZT1PaXBCVVJaYUQ2WGV6SkZCelFjRnZRPT0mdmFsaWRtaW51dGVzPTIw playpath=aplus swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=aplus pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=aplus&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
 <title>Abbtak TV</title>
 <link>rtmp://77.92.87.245:1935/live/ playpath=abbtakkLive.stream swfUrl=http://www.abbtakk.tv/wp-content/plugins/ultimate-coming-soon-page/inc/template/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.abbtakk.tv/</link>
 <thumbnail>http://www.pakistanmediaupdates.com/wp-content/uploads/2013/04/abb-takk.jpg</thumbnail>
@@ -50,21 +44,9 @@
 </item>
 
 <item>
-<title>City 42</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MzA6MDEgUE0maGFzaF92YWx1ZT1KVXRPUTNYQmFlZ2I3ZlBxSHdYZ1lnPT0mdmFsaWRtaW51dGVzPTIw playpath=city42 swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=city42 pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=city42&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
 <title>Dunya TV</title>
 <link>rtmp://173.245.68.50/live playpath=cam swfUrl=http://dunyanews.tv/newsite/live_stream/player.swf pageUrl=http://dunyanews.tv/newsite/live_stream/ live=true swfVfy=true timeout=15</link>
 <thumbnail>http://dunyanews.tv/images/dunyalogo.png</thumbnail>
-</item>
-
-<item>
-<title>Dhoom TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MzE6MjIgUE0maGFzaF92YWx1ZT13aXhGOVJLVS8xenVPbHRxbnlWMzRnPT0mdmFsaWRtaW51dGVzPTIw playpath=dhoomtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=dhoomtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=dhoomtv&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -93,37 +75,19 @@
 
 <item>
 <title>Hum TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MjY6MTYgUE0maGFzaF92YWx1ZT0wTjdnZDFlTEpKUCtvUGpiTnVtL3d3PT0mdmFsaWRtaW51dGVzPTIw playpath=humtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=humtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=humtv&screen=true live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Hum TV (2)</title>
 <link>rtmp://93.174.93.58/zecastEd/ playpath=tvhum3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=tvhum3&width=600&height=470 swfVfy=true live=true timeout=15</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
 </item>
 
 <item>
-<title>Hum TV (3)</title>
+<title>Hum TV (2)</title>
 <link>rtmp://f.acaster.tv/live playpath=tvhum5 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvhum5&vw=600&vh=470&domain=http://desistreams.tv/embed/hum_tv.ph live=true timeout=15</link>
 <thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
 </item>
 
 <item>
-<title>Hum TWO</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6Mjg6MzkgUE0maGFzaF92YWx1ZT1LNnBuOHZCRHpUMHFFSlArS0g1Z29nPT0mdmFsaWRtaW51dGVzPTIw playpath=hum2 swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=hum2 pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=hum2&screen=true live=true timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
-</item>
-
-<item>
 <title>Hum Masaala</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6NDg6MDMgUE0maGFzaF92YWx1ZT1HSENSR2Uwa0NmSE5YaE1GeklEaVNnPT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=masalatv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=masalatv&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Kay 2 TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MzI6MzMgUE0maGFzaF92YWx1ZT1LQ3NVc1VqZDZ2cVhpbGZsckNhL013PT0mdmFsaWRtaW51dGVzPTIw playpath=k2tv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=k2tv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=k2tv&screen=true live=true timeout=15</link>
+<link>rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDk6MTQ6MzMgUE0maGFzaF92YWx1ZT0vUS9ZcVAyQkxUdGNRblNjai93d2t3PT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/humtv/iframe.php?streamer=streamer35&app=tv&stream=masalatv&width=640&height=360 live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -131,12 +95,6 @@
 <title>Prime TV</title>
 <link>http://46.249.213.93/iPhone/broadcast/primetv-tablet.3gp/primetv-tablet.3gp-mr648k.m3u8?trackingid=3801820000&os=desktop&m3usessid=f054d17cfd429541e5d0e4b7748ba9e2&len=36&gtime=1370053222&guid=bca719c0ac8f4030ffe9123456789012&da=0&hk=F07431CF523A23B6AB4B497B9FD08F1F</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.jpg</thumbnail>
-</item>
-
-<item>
-<title>Play TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6MzQ6MDQgUE0maGFzaF92YWx1ZT1KeFR1U0EzNElYRzlvTlZEbWtaUkt3PT0mdmFsaWRtaW51dGVzPTIw playpath=playtv swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=playtv pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=playtv&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
 </item>
 
 <item>
@@ -173,10 +131,4 @@
 <title>SAMAA TV</title>
 <link>rtmp://38.96.148.99:1935/samaalive/samaalive live=1 swfUrl=http://live.samaa.tv/player.swf pageUrl=http://live.samaa.tv/ timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/samaatv_logo.png</thumbnail>
-</item>
-
-<item>
-<title>Vibe TV</title>
-<link>rtmp://streamer35.eboundservices.com/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDg6NDg6MDMgUE0maGFzaF92YWx1ZT1HSENSR2Uwa0NmSE5YaE1GeklEaVNnPT0mdmFsaWRtaW51dGVzPTIw playpath=nvibe swfUrl=http://www.eboundservices.com/live/player.swf?referrerUri=http://www.eboundservices.com/istream/channel.php?app=tv&stream=nvibe pageUrl=http://www.eboundservices.com:8888/iframe/iframe.php?app=tv&stream=nvibe&screen=true live=true timeout=15</link>
-<thumbnail> </thumbnail>
 </item>
