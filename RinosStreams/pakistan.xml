@@ -8,26 +8,14 @@
 ##############################################################################################################################
 
 <item>
-<title>Abbtak TV</title>
-<link>rtmp://77.92.87.245:1935/live/ playpath=abbtakkLive.stream swfUrl=http://www.abbtakk.tv/wp-content/plugins/ultimate-coming-soon-page/inc/template/jwplayer.flash.swf live=true timeout=15 pageUrl=http://live.abbtakk.tv/</link>
-<thumbnail>http://www.pakistanmediaupdates.com/wp-content/uploads/2013/04/abb-takk.jpg</thumbnail>
-</item>
-
-<item>
 <title>ARY Digital</title>
-<link>rtmp://93.174.93.58/zecastEd playpath=digary8 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=digary8&width=600&height=470 live=true timeout=15</link>
+<link>rtmp://178.18.30.120/live playpath=digary swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=digary&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail>http://takatuk.com/wp-content/uploads/2008/09/ary-digital-tv-logo.gif</thumbnail>
 </item>
 
 <item>
-<title>Ary Digital (2)</title>
-<link>rtmp://93.174.93.58/zecastEd/digitalary3 live=1 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php timeout=15</link>
-<thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/ary.jpg.png</thumbnail>
-</item>
-
-<item>
 <title>ARY News</title>
-<link>rtmp://server1.arylive.com:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf pageUrl=http://live.arylive.com/stream5.html live=true timeout=15</link>
+<link>rtmp://141.8.244.56/tv playpath=news_ary swfUrl=http://141.8.244.56/player/player.swf pageUrl=http://sportsembed.com/embed.php?v=ary_news&vw=600&vh=450&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
 <thumbnail>http://www.agahiawards.com/2012/channels/ary_news.jpg</thumbnail>
 </item>
 
@@ -57,7 +45,7 @@
 
 <item>
 <title>GEO News</title>
-<link>rtmp://93.174.93.58/zecastEd playpath=newsgeo8 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=newsgeo8&width=600&height=470 live=true timeout=15</link>
+<link>rtmp://178.18.30.21/live playpath=geonewss7 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=geonewss7&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -74,21 +62,15 @@
 </item>
 
 <item>
-<title>Hum TV</title>
-<link>rtmp://93.174.93.58/zecastEd/ playpath=tvhum3 swfUrl=http://zecast.tv/swfs/player.swf pageUrl=http://zecast.tv/embed.php?file=tvhum3&width=600&height=470 swfVfy=true live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
-</item>
-
-<item>
-<title>Hum TV (2)</title>
-<link>rtmp://f.acaster.tv/live playpath=tvhum5 swfUrl=http://www.acaster.tv/player/mplayer327.swf pageUrl=http://www.acaster.tv/embed.php?v=tvhum5&vw=600&vh=470&domain=http://desistreams.tv/embed/hum_tv.ph live=true timeout=15</link>
-<thumbnail>http://images3.wikia.nocookie.net/__cb20111001232340/logopedia/images/thumb/4/4c/Hum_TV.png/150px-Hum_TV.png</thumbnail>
-</item>
-
-<item>
-<title>Hum Masaala</title>
-<link>rtmp://cdn.ebound.tv/tv?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDEzIDk6MTQ6MzMgUE0maGFzaF92YWx1ZT0vUS9ZcVAyQkxUdGNRblNjai93d2t3PT0mdmFsaWRtaW51dGVzPTIw playpath=masalatv swfUrl=http://www.eboundservices.com/live/player.swf pageUrl=http://www.eboundservices.com/iframe/humtv/iframe.php?streamer=streamer35&app=tv&stream=masalatv&width=640&height=360 live=true timeout=15</link>
+<title>GEO Entertainment</title>
+<link>rtmp://178.18.30.120/live playpath=geo_entt0934 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=geo_entt0934&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Hum TV</title>
+<link>rtmp://178.18.30.120/live playpath=humtvv09 swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=humtvv09&vw=600&vh=430 live=true timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/Hum_tv.png</thumbnail>
 </item>
 
 <item>
