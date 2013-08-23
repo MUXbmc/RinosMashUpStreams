@@ -33,7 +33,7 @@
 
 <item>
 <title>B4U Movies</title>
-<link>rtmp://178.18.23.129/live playpath=b4u_movies98.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=b4u_movies98&vw=600&vh=430 live=true timeout=15</link>
+<link>rtmp://178.18.30.20/live playpath=b4umooo swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=b4umooo&vw=600&vh=470 live=true timeout=15</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -212,7 +212,7 @@
 
 <item>
 <title>Star Plus</title>
-<link>rtmp://94.102.51.78/live33 playpath=u_starplus swfUrl=http://www.zstream.eu/p387sj9hd803ns9n3is93s9df8nd93d9g9dfg94ng949f.swf pageUrl=http://www.zstream.eu/embed.php?v=u_starplus&vw=600&vh=450&video=0&domain=www.pogotv.eu live=true timeout=15</link>
+<link>rtmp://178.18.30.20/live playpath=starplusinn swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=starplusinn&vw=600&vh=430 live=true timeout=15</link>
 <thumbnail>http://i1112.photobucket.com/albums/k487/thiany25/star-plus.png</thumbnail>
 </item>
 
@@ -260,13 +260,7 @@
 
 <item>
 <title>Zee Cinema</title>
-<link>rtmp://141.8.244.56/base playpath=zee_cinema1.stream swfUrl=http://141.8.244.56/player/player-licensed55.swf pageUrl=http://sportsembed.com/embed.php?v=zee_cinema&vw=600&vh=430&typeplayer=0&domain=pogotv.eu live=true timeout=15</link>
-<thumbnail>http://images2.wikia.nocookie.net/__cb20110926123553/logopedia/images/b/be/Zee_Cinema_2005.png</thumbnail>
-</item>
-
-<item>
-<title>Zee Cinema (2)</title>
-<link>http://fw01.livem3u8.me.totiptv.com/live//18560c96b9f446bb87acb8981a2fe9c5.m3u8?bitrate=800</link>
+<link>rtmp://178.18.30.20/live playpath=cinezee swfUrl=http://www.ukcast.tv/upload/jwplayer/jwplayer.flash.swf pageUrl=http://www.ukcast.tv/embed.php?u=cinezee&vw=600&vh=470 live=true timeout=15</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20110926123553/logopedia/images/b/be/Zee_Cinema_2005.png</thumbnail>
 </item>
 
